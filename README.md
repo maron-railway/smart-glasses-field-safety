@@ -50,7 +50,17 @@
 コードがほとんど存在しない場合もありますが、
 **現場視点での課題整理と実現性の検討**を重視しています。
 
----
+# smart-glasses-field-safety
+
+AI-integrated HUD architecture for field safety, targeting **EVEN G2** smart glasses.
+
+## Scope
+- Dual BLE communication (left/right arms)
+- HUD text rendering (first: text-only via 0x4E)
+- Field workflow support (rail maintenance use-cases)
+
+## Reference
+Protocol notes and original demo: **even-demo-reference**--
 
 ## ステータス
 
